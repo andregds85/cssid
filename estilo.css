@@ -1,0 +1,50 @@
+#cabecalho{
+padding-top: 10%;
+background-color: black;
+color: white;
+font-size: 30px;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#produtos{
+ padding: 10%;  
+ background-image: url("images/fundos1.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ color:black;
+ font-size: 25px;
+}
+
+#contato{
+    padding: 10%;  
+    background-image: url("images/fundos2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-size: 25px;
+}
+
+
+#rodape{
+    padding: 10%;
+    background-image: url("topo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-size: 25px;
+
+}
+ul{
+
+}
+li{
+display: inline;
+}
+a{
+color:white;
+font-size: 25px;
+
+}
+
